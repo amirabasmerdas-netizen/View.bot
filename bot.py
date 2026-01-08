@@ -16,7 +16,7 @@ from telegram.ext import (
     filters
 )
 TOKEN = "8275637960:AAGVhL33pMp0vXRdgXzfaZqF5rYuHwDfrPw"
-WEBHOOK_URL = "https://your-app-name.onrender.com"
+WEBHOOK_URL = "https://https://view-bot-0qxp.onrender.com"
 
 OWNER_ID = 8588773170
 OWNER_USERNAME = "@amele55"
